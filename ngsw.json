@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1665765088894,
+  "timestamp": 1665783555603,
   "index": "/spa-test/index.html",
   "assetGroups": [
     {
@@ -20,14 +20,14 @@
         "/spa-test/987.b627361111ab2f5a.js",
         "/spa-test/favicon.ico",
         "/spa-test/index.html",
-        "/spa-test/main.31d7f4f5b3f511a7.js",
+        "/spa-test/main.3a85be67e65c57a7.js",
         "/spa-test/manifest.webmanifest",
         "/spa-test/polyfills.40541d2243639b08.js",
         "/spa-test/runtime.1f3bcdc9db3a4b5c.js",
         "/spa-test/scripts.e1661b731b7c42af.js",
         "/spa-test/stencil-polyfills-css-shim.8c9b3163138fb681.js",
         "/spa-test/stencil-polyfills-dom.50cb91cf73d155d2.js",
-        "/spa-test/styles.ba5e71b2369ca1cf.css"
+        "/spa-test/styles.6ef386e401f419d7.css"
       ],
       "patterns": []
     },
@@ -201,15 +201,15 @@
     "/spa-test/assets/js/tinymce.min.js": "9403b48481800db81118766c052bf87d3e0fc4f9",
     "/spa-test/assets/js/validate.js": "2d8b11aacd3e3ada3f0a478630cfbe098e2ac023",
     "/spa-test/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/spa-test/index.html": "e4438ff1cf711e5e9fd9fcad6fc740ffad84f36a",
-    "/spa-test/main.31d7f4f5b3f511a7.js": "04bfa8cabe6eb7b83dfe147a0fc4fd45e502e9ba",
+    "/spa-test/index.html": "8880ebfee8c36830bc2bc1dc7719b47662deec30",
+    "/spa-test/main.3a85be67e65c57a7.js": "302150ddb97ba6540a165df7452e2e51233fecd8",
     "/spa-test/manifest.webmanifest": "1310b2fae982ac08322e1979690e719827491143",
     "/spa-test/polyfills.40541d2243639b08.js": "c7767e7901a93e5a8e1e7cb93e20277d8d656098",
     "/spa-test/runtime.1f3bcdc9db3a4b5c.js": "d01a8a3f15abad91d3b3dd4ded52576809937328",
     "/spa-test/scripts.e1661b731b7c42af.js": "7623a12c0f91d472856cc285c8288030d37c34b6",
     "/spa-test/stencil-polyfills-css-shim.8c9b3163138fb681.js": "1251667c913d43ac80a7567ac53529696268ccd3",
     "/spa-test/stencil-polyfills-dom.50cb91cf73d155d2.js": "5d59914178c66a84fc25568d60cb917dbf47ca32",
-    "/spa-test/styles.ba5e71b2369ca1cf.css": "3bbccce0267a451338505e3ec85e9b53445c9d42"
+    "/spa-test/styles.6ef386e401f419d7.css": "2834e8adfbae32eea566d5934687720a13de8fc6"
   },
   "navigationUrls": [
     {
